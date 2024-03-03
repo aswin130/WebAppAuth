@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BdikpKt2fN5uF/2xmUAXgnLyp7pA1wNF/0YdyKaHKdk=",
+  "Source": "WebAppAuth",
+  "BasePath": "_content/WebAppAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

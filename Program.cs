@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using WebAppAuth.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

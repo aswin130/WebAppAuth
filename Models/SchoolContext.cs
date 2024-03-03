@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
+
 namespace WebAppAuth.Models
 {
 public class SchoolContext : DbContext
